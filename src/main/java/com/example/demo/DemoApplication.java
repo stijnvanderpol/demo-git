@@ -11,7 +11,7 @@ public class DemoApplication {
 	}
 
 	public static void whatever() {
-		System.out.println("do whatever");
+		System.out.println("do whatever you want");
 	}
 
 }
